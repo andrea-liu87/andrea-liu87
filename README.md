@@ -18,6 +18,7 @@ Skills: Flutter / Android / Kotlin / Java / MVP / MVVM / Web Services (REST) / B
 
 ### Connect With Me
 
+[<img align="left" alt="Andrea Liu | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 [<img align="left" alt="Andrea Liu | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Andrea Liu | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 
