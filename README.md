@@ -14,7 +14,7 @@ Skills: Flutter / Android / Kotlin / Java / MVVM / Web Services (REST) / Bug Fix
 
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android)
 - 🌱 &ensp; I'm currently learning Kotlin MultiPlatform / SwiftUI❤️
-- ⚡ &ensp; Fun fact: I am a mother of 2 years old baby girl.⭐
+- ⚡ &ensp; Fun fact: I am a mother of 3 years old and 4 months baby girls.⭐
 
 ### Connect With Me
 
