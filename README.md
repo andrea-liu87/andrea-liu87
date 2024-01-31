@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://andrea-liu87.github.io">Andrea</a></h1>
-<h3 align="center">Mobile Application Developer with Android & Flutter experience</h3>
+<h3 align="center">Mobile Application Developer | Native Android | Kotlin Multiplatform</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/followers/andrea-liu87?label=Github%20followers&style=for-the-badge" alt="andrea-liu87" />
