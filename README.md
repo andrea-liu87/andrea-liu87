@@ -10,7 +10,7 @@
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: Flutter / Android / Kotlin / Java / MVVM / Web Services (REST) / Bug Fixing / Unit Testing / Software Design Patterns.
+Skills: Android / Kotlin / Java / KMP / Jetpack Compose / MVVM / Web Services (REST) / Bug Fixing / Unit Testing.
 
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android)
 - 🌱 &ensp; I'm currently learning Kotlin MultiPlatform / SwiftUI❤️
