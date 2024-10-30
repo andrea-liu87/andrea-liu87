@@ -10,11 +10,11 @@
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: Android / Kotlin / Java / KMP / Jetpack Compose / MVVM / Web Services (REST) / Bug Fixing / Unit Testing.
+Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM / Web Services (REST) / Bug Fixing / Unit Testing.
 
 - 🔭 &ensp; I’m currently working on Mobile Application Development (Android)
-- 🌱 &ensp; I'm currently learning Kotlin MultiPlatform / SwiftUI❤️
-- ⚡ &ensp; Fun fact: I am a mother of 3 years old and 4 months baby girls.⭐
+- 🌱 &ensp; I'm an early adopter Compose Multiplatform Tech
+- ⚡ &ensp; Fun fact: I am a mother of 4 years old and 1 year old girls.⭐
 
 ### Connect With Me
 
