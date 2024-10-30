@@ -4,7 +4,7 @@
 <div class="row">
     <img src="https://img.shields.io/github/followers/andrea-liu87?label=Github%20followers&style=for-the-badge" alt="andrea-liu87" />
     <img src="https://img.shields.io/github/stars/andrea-liu87?label=Github%20stars&style=for-the-badge" alt="andrea-liu87" />
-    <img  src="https://komarev.com/ghpvc/?username=andrea-liu87&label=Profile Views&color=blue&style=for-the-badge" alt="andrea-liu87" />
+    <img  src="https://komarev.com/ghpvc/?username=andrea-liu87&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="andrea-liu87" />
     <a href="https://www.linkedin.com/in/andrealiu87/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/andrealiu87/" alt="andrea-liu87" /> </a>
 </div>
 
@@ -44,13 +44,6 @@ Skills: Android / Kotlin / Java / KMP / Jetpack Compose / MVVM / Web Services (R
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-liu87&" alt="Andrea Liu" />
     </td>
-   </tr>
-</table>
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=andrea-liu87" alt="Andrea's github stats"/>    
-    </td> 
    </tr>
 </table>
 
