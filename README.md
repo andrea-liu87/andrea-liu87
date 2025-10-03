@@ -10,11 +10,13 @@
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM / Web Services (REST) / Bug Fixing / Unit Testing.
+Skills: 
+<br>Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM / Web Services (REST) / Bug Fixing / Unit Testing.</br>
+Solidity / Foundry / Smart Contract Development / Unit Test / Integration Test / Fuzz Test / Fork Test
 
-- 🔭 &ensp; I’m currently working on Mobile Application Development (Android)
-- 🌱 &ensp; I'm an early adopter Compose Multiplatform Tech
-- ⚡ &ensp; Fun fact: I am a mother of 4 years old and 1 year old girls.⭐
+- 🔭 &ensp; I’m an experienced native Mobile Application Development (Android) 
+- 🌱 &ensp; I'm an early adopter of hybrid mobile development Compose Multiplatform Tech
+- ⚡ &ensp; Working on enhanced my skill more on Smart Contract Development
 
 ### Connect With Me
 
@@ -27,11 +29,10 @@ Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM 
 
 ### Languages and Tools
 
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
 [<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
 [<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
+[<img align="left" alt=“Solidity” width="26px" src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" />][solidity]
+[<img align="left" alt=“Foundry” width="26px" src="https://getfoundry.sh/og-image.png" />][foundry]
 
 <br />
 <br />
@@ -73,8 +74,7 @@ Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM 
 [linkedin]: https://linkedin.com/in/andrealiu87
 [github]: https://github.com/andrea-liu87
 [medium]: https://medium.com/@andrea8787
-[flutter]: https://flutter.dev
-[dart]: https://dart.dev
-[firebase]: https://firebase.google.com
+[solidity]: https://www.soliditylang.org/
+[foundry]: https://getfoundry.sh/
 [java]: https://www.java.com/en/
 [kotlin]: https://kotlinlang.org
